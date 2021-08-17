@@ -1,0 +1,16 @@
+PODS:
+  - Ronin (0.1.0)
+
+DEPENDENCIES:
+  - Ronin (from `../`)
+
+EXTERNAL SOURCES:
+  Ronin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Ronin: 92b9ccdc7b2b1dfcef40e90f67b72274c6316b8f
+
+PODFILE CHECKSUM: d9f94b3085c3ed8389cfa1a581cbd3a4a1aefd46
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,22 @@
+{
+  "name": "Ronin",
+  "version": "0.1.0",
+  "summary": "A short description of Ronin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Muhammad Ali Maniar/Ronin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Muhammad Ali Maniar": "ali.maniar@purevpn.com"
+  },
+  "source": {
+    "git": "https://github.com/Muhammad Ali Maniar/Ronin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Ronin/Classes/**/*"
+}
