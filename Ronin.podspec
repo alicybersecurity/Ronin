@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Ronin'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Mobile accessories'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
   s.swift_versions = '4.0'
-  s.source_files = 'Ronin/Classes/**/*'
+  s.source_files = 'Pod/Classes/**/*'
   
   # s.resource_bundles = {
   #   'Ronin' => ['Ronin/Assets/*.png']
